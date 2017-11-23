@@ -32,6 +32,7 @@ public class MainActivity extends AppCompatActivity {
 
     static Uri mCapturedImageURI;
 
+
     private String selectedImagePath = null;
     final private int PICK_IMAGE = 1;
     final private int CAPTURE_IMAGE = 2;
